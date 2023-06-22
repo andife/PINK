@@ -2,6 +2,7 @@
 [![Join the chat at https://gitter.im/HITS-AIN-PINK/Lobby](https://badges.gitter.im/HITS-AIN-PINK/Lobby.svg)](https://gitter.im/HITS-AIN-PINK/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <a href="http://ascl.net/1910.001"><img src="https://img.shields.io/badge/ascl-1910.001-blue.svg?colorB=262255" alt="ascl:1910.001" /></a>
 [![PyPI version](https://badge.fury.io/py/astro-pink.svg)](https://badge.fury.io/py/astro-pink)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/andife/Pink/badge)](https://api.securityscorecards.dev/projects/github.com/andife/Pink)
 
 # Parallelized rotation and flipping INvariant Kohonen maps (PINK)
 
